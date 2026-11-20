@@ -1,0 +1,16 @@
+{
+  "demo.rahim": {
+    "display_name": "Rahim Khan",
+    "salt": "3cba7580c77f80ffcccd4f6c99ef938c",
+    "password_hash": "828d7fe649449eac0fd15de2118330ada2091088f0fb945ba6e582a91f382624",
+    "balance": "248500.00",
+    "currency": "BDT"
+  },
+  "demo.nadia": {
+    "display_name": "Nadia Ahmed",
+    "salt": "f2e86a41cfd0f320fad5ee3ff4014198",
+    "password_hash": "c4ddc1b2755025b2885e28b94a8f070d7ac3c3d500cca17e194be83adb58b439",
+    "balance": "175250.50",
+    "currency": "BDT"
+  }
+}

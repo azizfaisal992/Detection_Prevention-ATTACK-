@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.agents/
+.aws/
+.codex/
+frontend/node_modules/
+frontend/dist/
+.vite/
+*.log
+.tools/
+backend/data/*.lock
+
