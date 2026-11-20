@@ -49,7 +49,7 @@ The protected account file stores only PBKDF2 password hashes. Session tokens
 expire after 30 minutes, are stored only as SHA-256 hashes, and are invalidated
 by logout.
 
-## Original vulnerable lab
+<!-- ## Original vulnerable lab
 
 Run this only on localhost for the educational comparison:
 
@@ -60,7 +60,7 @@ python original_simulation/attacker.py
 ```
 
 The lab intentionally permits an unauthenticated balance lookup. Never expose
-port 5001 beyond localhost.
+port 5001 beyond localhost. -->
 
 
 
