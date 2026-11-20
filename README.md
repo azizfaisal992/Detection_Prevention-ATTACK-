@@ -62,7 +62,7 @@ python original_simulation/attacker.py
 The lab intentionally permits an unauthenticated balance lookup. Never expose
 port 5001 beyond localhost.
 
-## Sprint 1 integration tests
+
 
 With the original server, protected server, and bridge running, execute:
 
